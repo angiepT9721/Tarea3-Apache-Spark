@@ -70,4 +70,6 @@ Los resultados describen los datos procesados y deben interpretarse teniendo en 
 
 ## Autoría
 
-Actividad académica correspondiente a la Tarea 3: Procesamiento de Datos con Apache Spark.
+**Angie Paola Triana Fernandez**
+
+Actividad académica correspondiente a la Tarea 3: Procesamiento de Datos con Apache Spark, UNAD.
